@@ -19,4 +19,4 @@ const server = new ApolloServer({
 
 server
 .listen()
-.then(() => console.log("server is running"));
+.then(() => console.log("server is running http://localhost:4000"));
